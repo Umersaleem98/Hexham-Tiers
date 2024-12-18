@@ -30,7 +30,7 @@
         </script>
         <div class="swiper-wrapper">
 
-          <div class="swiper-slide event-item d-flex flex-column justify-content-end" style="background-image: url(assets/img/events-1.jpg)">
+          <div class="swiper-slide event-item d-flex flex-column justify-content-end" style="background-image: url(templates/assets/img/events-1.jpg)">
             <h3>Custom Parties</h3>
             <div class="price align-self-start">$99</div>
             <p class="description">
@@ -38,7 +38,7 @@
             </p>
           </div><!-- End Event item -->
 
-          <div class="swiper-slide event-item d-flex flex-column justify-content-end" style="background-image: url(assets/img/events-2.jpg)">
+          <div class="swiper-slide event-item d-flex flex-column justify-content-end" style="background-image: url(templates/assets/img/events-2.jpg)">
             <h3>Private Parties</h3>
             <div class="price align-self-start">$289</div>
             <p class="description">
@@ -46,7 +46,7 @@
             </p>
           </div><!-- End Event item -->
 
-          <div class="swiper-slide event-item d-flex flex-column justify-content-end" style="background-image: url(assets/img/events-3.jpg)">
+          <div class="swiper-slide event-item d-flex flex-column justify-content-end" style="background-image: url(templates/assets/img/events-3.jpg)">
             <h3>Birthday Parties</h3>
             <div class="price align-self-start">$499</div>
             <p class="description">
@@ -54,7 +54,7 @@
             </p>
           </div><!-- End Event item -->
 
-          <div class="swiper-slide event-item d-flex flex-column justify-content-end" style="background-image: url(assets/img/events-4.jpg)">
+          <div class="swiper-slide event-item d-flex flex-column justify-content-end" style="background-image: url(templates/assets/img/events-4.jpg)">
             <h3>Wedding Parties</h3>
             <div class="price align-self-start">$899</div>
             <p class="description">

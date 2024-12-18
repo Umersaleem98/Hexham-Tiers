@@ -12,34 +12,30 @@
   <main class="main">
 
     <!-- Hero Section -->
-   @include('layouts.pages.slider')
+   @include('pages.slider')
     <!-- About Section -->
-   @include('layouts.pages.aboutus')
     <!-- Why Us Section -->
-    {{-- @include('layouts.pages.whyus') --}}
+    @include('pages.whyus')
 
     <!-- Stats Section -->
- {{-- @include('layouts.pages.stats') --}}
+ @include('pages.stats')
 
-    <!-- Menu Section -->
-   @include('layouts.pages.menu')
+
 
     <!-- Testimonials Section -->
-   {{-- @include('layouts.pages.testimonial') --}}
+   @include('pages.testimonial')
 
     <!-- Events Section -->
-   {{-- @include('layouts.pages.event') --}}
+   @include('pages.event')
     <!-- Chefs Section -->
    {{-- @include('layouts.pages.Chefs') --}}
 
-    <!-- Book A Table Section -->
-   @include('layouts.pages.book-a-table')
+ 
 
     <!-- Gallery Section -->
-   {{-- @include('layouts.pages.gallery') --}}
+   @include('pages.gallery')
 
-    <!-- Contact Section -->
-   @include('layouts.pages.contact')
+
   </main>
 
 @include('layouts.footer')
